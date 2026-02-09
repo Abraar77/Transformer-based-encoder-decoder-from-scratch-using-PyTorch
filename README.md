@@ -43,6 +43,8 @@ During development, multiple datasets and training environments were explored:
 Initially, the OPUS Books English–Italian dataset (~33k sentence pairs) was used.
 
 Training was attempted across multiple Google Colab sessions, but GPU usage limits were repeatedly reached.
+<img width="931" height="585" alt="image" src="https://github.com/user-attachments/assets/117246b8-f74f-42d1-ab61-c292593cd067" />
+
 
 Due to these limitations, the final experiments were conducted using the LingoIITGN/PHINC Hinglish–English dataset (~13k sentence pairs).
 
